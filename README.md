@@ -16,17 +16,18 @@ Welcome to my digital workshop! I design and build modern, user-focused web inte
 
 ## 🛠 Tech Stack
 
-**Design & Frontend**
-- HTML5 / CSS3 / JavaScript
-- Tailwind CSS / Bootstrap
-- React.js / Next.js
-- Figma / Canva
+### 🎨 Design & Frontend
+- 🌐 **HTML5**, **CSS3**, **JavaScript**
+- 🌀 **Tailwind CSS**, 🎨 **Bootstrap**
+- ⚛️ **React.js**, 🌐 **Next.js**
+- 🖌️ **Figma**, ✏️ **Canva**
 
-**Other Tools**
-- Git & GitHub
-- VS Code
-- Responsive Design
-- UI/UX Wireframing
+### 🧰 Tools & Workflow
+- 🧠 Responsive Web Design
+- 💻 **Visual Studio Code**
+- 🔧 **Git** & 🗂️ **GitHub**
+- 🔍 **Chrome DevTools**
+- 📐 UI/UX Wireframing
 
 ---
 
@@ -41,14 +42,7 @@ Welcome to my digital workshop! I design and build modern, user-focused web inte
 ![RJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raxhul&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raxhul&layout=compact&theme=radical)
 
----
 
-## 📬 Let's Connect!
-
-- 💼 [LinkedIn](https://linkedin.com) *(add yours)*
-- 🌐 [Portfolio](https://yourportfolio.com) *(if you have one)*
-- 📫 Drop me a message anytime!
-
----
 
 *Thanks for visiting! Keep creating. Keep growing.* 🌱
+
