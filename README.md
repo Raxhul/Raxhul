@@ -32,7 +32,7 @@ I’m here to turn cute ideas into lovable code 💖
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/postman-icon.svg" width="40" title="Postman"/>
+ 
 </div>
 
 ---
