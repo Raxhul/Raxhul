@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-🌈 <strong>Welcome to my little creative corner!</strong>  
+🦬 <strong>Welcome to my little creative corner!</strong>  
 I love crafting <strong>adorable</strong>, <strong>clean</strong>, and <strong>delightful</strong> web experiences ✨  
 Whether it’s a pixel-perfect <strong>UI</strong> or a smooth <strong>UX</strong> flow —  
 I’m here to turn cute ideas into lovable code 💖  
